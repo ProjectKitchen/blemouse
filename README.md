@@ -13,6 +13,7 @@ Metawear C Board
 based on Nordic nRF51822 32-bit ARM® Cortex™ M0 CPU
 with a BMI160 6 Dof IMU from Bosch Sensortec
 https://mbientlab.com/product/metawearc/
+uses CR2032 coin cell
 
 Nordic Semiconductors - nRF51 DK used for flashing the Metawear C Board
 https://www.nordicsemi.com/eng/Products/nRF51-DK
@@ -22,6 +23,7 @@ Firmware
 to flash a custom firmware to the Metawear C board the nRF51-DK is used:
 https://devzone.nordicsemi.com/blogs/803/programming-and-debugging-custom-nrf5x-devices/
 https://devzone.nordicsemi.com/question/80853/external-programming-using-nrf52-dk/
+
 
 nrf5 Software Development Kit (SDK)
 
